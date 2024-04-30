@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noahsnowc
 - 👀 I’m interested in AI, Automation, Web Apps, and Backend Technology
-- 🌱 I’m currently working with Typescript and SolidJS
+- 🌱 I’m currently working with Go, Python, and HTMX
 - 📫 How to reach me: noahsnowc@gmail.com
 <!---
 noahsnowc/noahsnowc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
